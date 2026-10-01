@@ -4,11 +4,11 @@
 
 1. Go to [overleaf.com](https://www.overleaf.com) and sign in.
 2. Click **New Project → Upload Project**.
-3. Upload `Bhetuwal_dBdt_ROTI_LaTeX_Package.zip` (the entire `latex/` folder zipped).
+3. Upload `dBdt_ROTI_LaTeX_Package.zip` (the entire `latex/` folder zipped).
 4. Set the compiler to **pdfLaTeX** (Project → Compiler).
 5. Click **Compile** — Overleaf handles the BibTeX pass automatically.
 
-The full manuscript should compile to 30 pages with all 18 figures embedded.
+The full manuscript should compile to <25 pages with all 18 figures embedded.
 
 ---
 
