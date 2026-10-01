@@ -1,0 +1,9 @@
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+matplotlib>=3.7.0
+statsmodels>=0.14.0
+requests>=2.31.0
+georinex>=1.16.0
+hatanaka>=2.8.0
+pyspedas>=1.4.0

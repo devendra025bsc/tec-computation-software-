@@ -1,0 +1,222 @@
+{
+  "Aug 2018 (G3)": {
+    "days": [
+      "2018-08-23", "2018-08-24", "2018-08-25",
+      "2018-08-26", "2018-08-27", "2018-08-28", "2018-08-29"
+    ],
+    "stations": {
+      "COT1+TUC": {
+        "dbdt_path": "data/geomag/TUC_Geomagnetic_Data_20180823.csv",
+        "roti_path": "data/roti/cot1/processed_roti_cot1_20180823.csv",
+        "symh_path": "data/symh/SYM_H_Data_20180823_20180829.csv",
+        "mag_lat": 39.9,
+        "qc_exclude": false
+      },
+      "GUA+GUAM": {
+        "dbdt_path": "data/geomag/GUA_Geomagnetic_Data_20180823.csv",
+        "roti_path": "data/roti/guam/processed_roti_guam_20180823.csv",
+        "symh_path": "data/symh/SYM_H_Data_20180823_20180829.csv",
+        "mag_lat": 5.0,
+        "qc_exclude": false
+      },
+      "HON+HNLC": {
+        "dbdt_path": "data/geomag/HON_Geomagnetic_Data_20180823.csv",
+        "roti_path": "data/roti/hnlc/processed_roti_hnlc_20180823.csv",
+        "symh_path": "data/symh/SYM_H_Data_20180823_20180829.csv",
+        "mag_lat": 21.7,
+        "qc_exclude": false
+      },
+      "LOY8+FRD": {
+        "dbdt_path": "data/geomag/FRD_Geomagnetic_Data_20180823.csv",
+        "roti_path": "data/roti/loy8/processed_roti_loy8_20180823.csv",
+        "symh_path": "data/symh/SYM_H_Data_20180823_20180829.csv",
+        "mag_lat": 48.4,
+        "qc_exclude": false
+      },
+      "BOU+NIST": {
+        "dbdt_path": "data/geomag/BOU_Geomagnetic_Data_20180823.csv",
+        "roti_path": "data/roti/nist/processed_roti_nist_20180823.csv",
+        "symh_path": "data/symh/SYM_H_Data_20180823_20180829.csv",
+        "mag_lat": 49.5,
+        "qc_exclude": true,
+        "qc_reason": "NIST ROTI 100% byte-identical to Nov2021/Nov2023/Mar2024 files"
+      }
+    }
+  },
+  "Nov 2021 (G3)": {
+    "days": [
+      "2021-11-02", "2021-11-03", "2021-11-04",
+      "2021-11-05", "2021-11-06", "2021-11-07", "2021-11-08"
+    ],
+    "stations": {
+      "COT1+TUC": {
+        "dbdt_path": "data/geomag/TUC_Geomagnetic_Data_20211102.csv",
+        "roti_path": "data/roti/cot1/processed_roti_cot1_20211102.csv",
+        "symh_path": "data/symh/SYM_H_Data_20211102_20211108.csv",
+        "mag_lat": 39.9,
+        "qc_exclude": false
+      },
+      "GUA+GUAM": {
+        "dbdt_path": "data/geomag/GUA_Geomagnetic_Data_20211102.csv",
+        "roti_path": "data/roti/guam/processed_roti_guam_20211102.csv",
+        "symh_path": "data/symh/SYM_H_Data_20211102_20211108.csv",
+        "mag_lat": 5.0,
+        "qc_exclude": false
+      },
+      "HON+HNLC": {
+        "dbdt_path": "data/geomag/HON_Geomagnetic_Data_20211102.csv",
+        "roti_path": "data/roti/hnlc/processed_roti_hnlc_20211102.csv",
+        "symh_path": "data/symh/SYM_H_Data_20211102_20211108.csv",
+        "mag_lat": 21.7,
+        "qc_exclude": false
+      },
+      "LOY8+FRD": {
+        "dbdt_path": "data/geomag/FRD_Geomagnetic_Data_20211102.csv",
+        "roti_path": "data/roti/loy8/processed_roti_loy8_20211102.csv",
+        "symh_path": "data/symh/SYM_H_Data_20211102_20211108.csv",
+        "mag_lat": 48.4,
+        "qc_exclude": false
+      },
+      "BOU+NIST": {
+        "dbdt_path": "data/geomag/BOU_Geomagnetic_Data_20211102.csv",
+        "roti_path": "data/roti/nist/processed_roti_nist_20211102.csv",
+        "symh_path": "data/symh/SYM_H_Data_20211102_20211108.csv",
+        "mag_lat": 49.5,
+        "qc_exclude": true,
+        "qc_reason": "NIST ROTI 100% byte-identical to Aug2018/Nov2023/Mar2024 files"
+      }
+    }
+  },
+  "Nov 2023 (G3)": {
+    "days": [
+      "2023-11-03", "2023-11-04", "2023-11-05",
+      "2023-11-06", "2023-11-07", "2023-11-08", "2023-11-09"
+    ],
+    "stations": {
+      "COT1+TUC": {
+        "dbdt_path": "data/geomag/TUC_Geomagnetic_Data_20231103.csv",
+        "roti_path": "data/roti/cot1/processed_roti_cot1_20231103.csv",
+        "symh_path": "data/symh/SYM_H_Data_20231103_20231109.csv",
+        "mag_lat": 39.9,
+        "qc_exclude": false
+      },
+      "GUA+GUAM": {
+        "dbdt_path": "data/geomag/GUA_Geomagnetic_Data_20231103.csv",
+        "roti_path": "data/roti/guam/processed_roti_guam_20231103.csv",
+        "symh_path": "data/symh/SYM_H_Data_20231103_20231109.csv",
+        "mag_lat": 5.0,
+        "qc_exclude": false
+      },
+      "HON+HNLC": {
+        "dbdt_path": "data/geomag/HON_Geomagnetic_Data_20231103.csv",
+        "roti_path": "data/roti/hnlc/processed_roti_hnlc_20231103.csv",
+        "symh_path": "data/symh/SYM_H_Data_20231103_20231109.csv",
+        "mag_lat": 21.7,
+        "qc_exclude": false
+      },
+      "LOY8+FRD": {
+        "dbdt_path": "data/geomag/FRD_Geomagnetic_Data_20231103.csv",
+        "roti_path": "data/roti/loy8/processed_roti_loy8_20231103.csv",
+        "symh_path": "data/symh/SYM_H_Data_20231103_20231109.csv",
+        "mag_lat": 48.4,
+        "qc_exclude": false
+      },
+      "BOU+NIST": {
+        "dbdt_path": "data/geomag/BOU_Geomagnetic_Data_20231103.csv",
+        "roti_path": "data/roti/nist/processed_roti_nist_20231103.csv",
+        "symh_path": "data/symh/SYM_H_Data_20231103_20231109.csv",
+        "mag_lat": 49.5,
+        "qc_exclude": true,
+        "qc_reason": "NIST ROTI 100% byte-identical to Aug2018/Nov2021/Mar2024 files"
+      }
+    }
+  },
+  "Mar 2024 (G4)": {
+    "days": [
+      "2024-03-22", "2024-03-23", "2024-03-24",
+      "2024-03-25", "2024-03-26", "2024-03-27", "2024-03-28"
+    ],
+    "stations": {
+      "COT1+TUC": {
+        "dbdt_path": "data/geomag/TUC_Geomagnetic_Data_20240322.csv",
+        "roti_path": "data/roti/cot1/processed_roti_cot1_20240322.csv",
+        "symh_path": "data/symh/SYM_H_Data_20240322_20240328.csv",
+        "mag_lat": 39.9,
+        "qc_exclude": false
+      },
+      "GUA+GUAM": {
+        "dbdt_path": "data/geomag/GUA_Geomagnetic_Data_20240322.csv",
+        "roti_path": "data/roti/guam/processed_roti_guam_20240322.csv",
+        "symh_path": "data/symh/SYM_H_Data_20240322_20240328.csv",
+        "mag_lat": 5.0,
+        "qc_exclude": false
+      },
+      "HON+HNLC": {
+        "dbdt_path": "data/geomag/HON_Geomagnetic_Data_20240322.csv",
+        "roti_path": "data/roti/hnlc/processed_roti_hnlc_20240322.csv",
+        "symh_path": "data/symh/SYM_H_Data_20240322_20240328.csv",
+        "mag_lat": 21.7,
+        "qc_exclude": false
+      },
+      "LOY8+FRD": {
+        "dbdt_path": "data/geomag/FRD_Geomagnetic_Data_20240322.csv",
+        "roti_path": "data/roti/loy8/processed_roti_loy8_20240322.csv",
+        "symh_path": "data/symh/SYM_H_Data_20240322_20240328.csv",
+        "mag_lat": 48.4,
+        "qc_exclude": false
+      },
+      "BOU+NIST": {
+        "dbdt_path": "data/geomag/BOU_Geomagnetic_Data_20240322.csv",
+        "roti_path": "data/roti/nist/processed_roti_nist_20240322.csv",
+        "symh_path": "data/symh/SYM_H_Data_20240322_20240328.csv",
+        "mag_lat": 49.5,
+        "qc_exclude": true,
+        "qc_reason": "NIST ROTI 100% byte-identical to Aug2018/Nov2021/Nov2023 files"
+      }
+    }
+  },
+  "May 2024 (G5)": {
+    "days": [
+      "2024-05-08", "2024-05-09", "2024-05-10",
+      "2024-05-11", "2024-05-12", "2024-05-13", "2024-05-14"
+    ],
+    "stations": {
+      "COT1+TUC": {
+        "dbdt_path": "data/geomag/TUC_Geomagnetic_Data_May2024.csv",
+        "roti_path": "data/roti/cot1/processed_roti_cot1_may2024.csv",
+        "symh_path": "data/symh/SYM_H_Data_20240508_20240514.csv",
+        "mag_lat": 39.9,
+        "qc_exclude": false
+      },
+      "GUA+GUAM": {
+        "dbdt_path": "data/geomag/GUA_Geomagnetic_Data_20240508.csv",
+        "roti_path": "data/roti/guam/processed_roti_guam_may2024.csv",
+        "symh_path": "data/symh/SYM_H_Data_20240508_20240514.csv",
+        "mag_lat": 5.0,
+        "qc_exclude": false
+      },
+      "HON+HNLC": {
+        "dbdt_path": "data/geomag/HON_Geomagnetic_Data_May2024.csv",
+        "roti_path": "data/roti/hnlc/processed_roti_hnlc_may2024.csv",
+        "symh_path": "data/symh/SYM_H_Data_20240508_20240514.csv",
+        "mag_lat": 21.7,
+        "qc_exclude": false
+      },
+      "LOY8+FRD": {
+        "dbdt_path": "data/geomag/FRD_Geomagnetic_Data_May2024.csv",
+        "roti_path": "data/roti/loy8/processed_roti_loy8_may2024.csv",
+        "symh_path": "data/symh/SYM_H_Data_20240508_20240514.csv",
+        "mag_lat": 48.4,
+        "qc_exclude": false
+      },
+      "BOU+NIST": {
+        "dbdt_path": "data/geomag/BOU_Geomagnetic_Data_May2024.csv",
+        "roti_path": "data/roti/nist/processed_roti_nist_may2024.csv",
+        "symh_path": "data/symh/SYM_H_Data_20240508_20240514.csv",
+        "mag_lat": 49.5,
+        "qc_exclude": false,
+        "qc_reason": "Retained for May 2024 only; residual 88% overlap with excluded events noted as unresolved limitation"
+      }
+    }
+  }
+}
