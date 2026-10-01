@@ -1,18 +1,22 @@
 # Magnetosphere–Ionosphere Coupling During Geomagnetic Storms
 ### A Multi-Event, Multi-Station Analysis of dB/dt–ROTI Response Delays and Longitudinal Variability
 
-**Author:** Devendra Bhetuwal  
-**Institution:** St. Xavier's College, Maitighar, Kathmandu, Nepal
+author
+  Deepa Bhetuwal
+  Devendra Bhetuwal
+  Basu Dev Ghimire
 
----
+\affiliationSt.\ Xavier's College, Maitighar, Kathmandu, Nepal\\
+
 
 ## Overview
 
 This repository contains the full analysis pipeline, data-collection scripts,
 and figure-generation code for the manuscript
-*"Magnetosphere–Ionosphere Coupling During Geomagnetic Storms: A Multi-Event,
-Multi-Station Analysis of dB/dt–ROTI Response Delays and Longitudinal
-Variability"*.
+*"
+  Magnetosphere--Ionosphere Coupling During Geomagnetic Storms:
+  A Case Study in Rate of Change of Magnetic Field and ROTI Delays
+  Response According to Longitudinal Variability"*.
 
 The study quantifies the lagged cross-correlation between the geomagnetic
 field time derivative (|dB/dt|) and the Rate of TEC Index (ROTI) across five
@@ -193,7 +197,7 @@ when `"qc_exclude": true` is set in the config for the affected cases.
 If you use this code or data, please cite:
 
 ```
-Bhetuwal, D. (2024). Magnetosphere–Ionosphere Coupling During Geomagnetic Storms:
+Bhetuwal, D. ,. Magnetosphere–Ionosphere Coupling During Geomagnetic Storms:
 A Multi-Event, Multi-Station Analysis of dB/dt–ROTI Response Delays and
 Longitudinal Variability. St. Xavier's College, Maitighar, Kathmandu, Nepal.
 ```
